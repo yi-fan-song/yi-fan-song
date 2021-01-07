@@ -9,7 +9,6 @@ I'm Yi Fan Song, call me Yi. I'm from Xi'an 🍜, China, and I'm currently doing
 <!-- End: Self Introduction -->
 
 - 📫 How to reach me: [yfsong00@gmail.com](mailto:yfsong00@gmail.com)
-- 😄 Pronouns: He/Him
 
 <!--
 **yi-fan-song/yi-fan-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yi Fan Song's github stats](https://github-readme-stats.vercel.app/api?username=yi-fan-song&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Yi Fan Song's github stats](https://github-readme-stats.vercel.app/api?username=yi-fan-song&count_private=true&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
