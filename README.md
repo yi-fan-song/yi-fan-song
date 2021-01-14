@@ -8,6 +8,14 @@
 I'm Yi Fan Song, call me Yi. I'm from Xi'an 🍜, China, and I'm currently doing a bachelor's degree in mathematics at the University of Waterloo in Canada. I learn lots of miscellanous technologies to fuel my 3 A.M. crazy ideas.
 <!-- End: Self Introduction -->
 
+- Languages/Technologies
+  - Spoken languages: English, French, Chinese
+  - Programming languages: Typescript, Golang, SQL, Python, Lua, PHP, HTML, CSS
+  - Frameworks: ReactJs, React Native, Angular, Express
+  - Libraries: OpenCV, Scikit-image, Firebase, DiscordJs
+  - Misc: Docker, Nginx, REST
+- Currently learning OAuth 2.0 Flow, Japanese, my university classes
+- 🔭 I’m currently working on [An OAuth2 API](https://github.com/yi-fan-song/authentication-api)
 - 📫 How to reach me: [yfsong00@gmail.com](mailto:yfsong00@gmail.com)
 
 <!--
