@@ -15,7 +15,7 @@ I'm Yi Fan Song, call me Yi. I'm from Xi'an 🍜, China, and I'm currently doing
   - Libraries: OpenCV, Scikit-image, Firebase, DiscordJs
   - Misc: Docker, Nginx, REST
 - Currently learning OAuth 2.0 Flow, Japanese, my university classes
-- 🔭 I’m currently working on [An OAuth2 API](https://github.com/yi-fan-song/authentication-api)
+- 🔭 I’m currently working on a [Client to play a RESTful API game](https://github.com/yi-fan-song/space-kraken)
 - 📫 How to reach me: [yfsong00@gmail.com](mailto:yfsong00@gmail.com)
 
 <!--
