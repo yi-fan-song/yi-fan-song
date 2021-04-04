@@ -1,9 +1,5 @@
 ## Hello there
 
-<!-- Start: Badge block -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/yifansong00?style=social)](https://twitter.com/yifansong00)
-<!-- End: Badge block -->
-
 <!-- Start: Self Introduction -->
 I'm Yi Fan Song, call me Yi. I'm from Xi'an 🍜, China, and I'm currently doing a bachelor's degree in mathematics at the University of Waterloo in Canada. I learn lots of miscellanous technologies to fuel my 3 A.M. crazy ideas.
 <!-- End: Self Introduction -->
