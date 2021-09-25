@@ -10,9 +10,10 @@ I'm Yi Fan Song, call me Yi. I'm from Xi'an 🍜, China, and I'm currently doing
   - Frameworks: ReactJs, React Native, Angular, Express
   - Libraries: OpenCV, Scikit-image, Firebase, DiscordJs
   - Misc: Docker, Nginx, REST
-- Currently learning OAuth 2.0 Flow, Japanese, my university classes
-- 🔭 I’m currently working on learning Japanese and doing my job.
+- 🌱 I’m currently learning Japanese
+- 🔭 I’m currently working on \[idk remind me to fill this later]
 - 📫 How to reach me: [yfsong00@gmail.com](mailto:yfsong00@gmail.com)
+- ⚡ Fun fact: Do disturb me at 3 A.M., that is when I am most prone to responding
 
 <!--
 **yi-fan-song/yi-fan-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
