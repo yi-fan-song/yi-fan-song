@@ -30,4 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yi Fan Song's github stats](https://github-readme-stats.vercel.app/api?username=yi-fan-song&count_private=true&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+![Yi Fan Song's github stats](https://github-readme-stats.vercel.app/api?username=yi-fan-song&count_private=true&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yi-fan-song&layout=compact&hide=jupyter+notebook&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9)
