@@ -6,7 +6,7 @@ I'm Yi Fan Song, call me Yi. I'm from Xi'an 🍜, China, and I'm currently doing
 
 - Languages/Technologies
   - Spoken languages: English, French, Chinese
-  - Programming languages: Typescript, Golang, SQL, Python, Lua, PHP, HTML, CSS
+  - Programming languages: Typescript, Golang, SQL, PHP
   - Frameworks: ReactJs, React Native, Angular, Express
   - Libraries: OpenCV, Scikit-image, Firebase, DiscordJs
   - Misc: Docker, Nginx, REST
