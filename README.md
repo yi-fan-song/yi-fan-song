@@ -1,10 +1,10 @@
 ## Hi there, you've stumbled upon my profile
 
-I do stuff, usually that includes some blockchain, backend, typescript, go, i.e.: stuff.
+I do stuff, lately that includes some graph theory, optimization, soft. dev i.e.: stuff.
 
-Clean code snippets are my eye bleach.
+I hate the js ecosystem
 
-Also a math student. Major TBD.
+Also a math student. Joint Combinatorics and Optimization and Pure Math Major, with a Minor in Biology at the University of Waterloo.
 
 Reach out by [email](mailto:yfsong00@gmail.com), [Linkedin](https://www.linkedin.com/in/yi-fan-song), or [Twitter](https://twitter.com/yifansong00).
 
