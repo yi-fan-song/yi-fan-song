@@ -4,7 +4,7 @@ I do stuff, lately that includes some graph theory, optimization, soft. dev i.e.
 
 I hate the js ecosystem
 
-Also a math student. Joint Combinatorics and Optimization and Pure Math Major, with a Minor in Biology at the University of Waterloo.
+Also a math student. Joint Combinatorics and Optimization and Pure Math Major, with an interest in Biology at the University of Waterloo.
 
 Reach out by [email](mailto:yfsong00@gmail.com), [Linkedin](https://www.linkedin.com/in/yi-fan-song), or [Twitter](https://twitter.com/yifansong00).
 
